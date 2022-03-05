@@ -1,0 +1,11 @@
+import math
+a = (7 <= 5)
+b = (2 + 4 == 6)
+c = (7 * 8 != 6 * 9)
+d = (13%4 == 1)
+e = (3 <= 5) and (2 == 4)
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
